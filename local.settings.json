@@ -2,7 +2,7 @@
   "IsEncrypted": false,
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=false",
-    "conn": "Endpoint=sb://pocgestorpropostas.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nU/ophrsCsLPvS6s/vflNyR7tl0okZKl7kxOdCd08Os=",
+    "conn": "SUPRIMIDO",
     "endpoint": "http://localhost:5174/api/webhookparceiro?IdProposta=",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet"
   }
